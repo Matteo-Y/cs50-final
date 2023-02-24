@@ -1,0 +1,52 @@
+#menus {
+    position: relative;
+    box-shadow: 0 -10px 20px #555;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+#menu-slide-container {
+  position: relative;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+}
+
+#menu-slide-container::-webkit-scrollbar {
+  height: 12px;
+}
+
+#menu-slide-container::-webkit-scrollbar-track {
+  background-color: #d8d4c5;
+}
+
+#menu-slide-container::-webkit-scrollbar-thumb {
+  background-color: rgb(255, 255, 255);
+  border-radius: 6px;
+  box-shadow: inset 0 0 0 2px #d8d4c5;
+}
+
+.menu-slide {
+  background-color: #f7f5ed;
+  position: relative;
+  width: 400px;
+  min-width: 400px;
+  height: 600px;
+  margin: 60px 5% 80px 5%;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 0 20px #fff;
+  transition: transform 0.5s;
+}
+
+.menu-slide:hover {
+  transform: scale(1.1);
+}
+
+.menu {
+  height: 100%;
+}
+
+.menu-image {
+  height: 100%;
+}

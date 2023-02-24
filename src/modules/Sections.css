@@ -1,0 +1,23 @@
+.title {
+    font-size: 6em;
+  }
+  
+  div.subtitle {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  p.subtitle {
+    margin: 0 10px 0 0;
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  .content {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 50px;
+  }
