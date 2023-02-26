@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5cce5d2.css",
-    "main.js": "/static/js/main.29df867e.js",
-    "static/media/headshot.jpg": "/static/media/headshot.3c6bce8ff01f254d7c88.jpg",
-    "static/media/storefront.jpg": "/static/media/storefront.9be284dab17c32eae60b.jpg",
-    "static/media/mail.png": "/static/media/mail.a9e53b1155a177628abf.png",
-    "static/media/Backdrop_1.svg": "/static/media/Backdrop_1.87073893e0382779ac4c.svg",
-    "static/media/phone.png": "/static/media/phone.7bdb9227cb0196eedd51.png",
-    "static/media/fb_icon.png": "/static/media/fb_icon.b1f08038eef010aa6def.png",
-    "static/media/donuts_oldFashion.jpg": "/static/media/donuts_oldFashion.1af4bf7cf9e378c55c62.jpg",
-    "static/media/patty_menu.jpg": "/static/media/patty_menu.b25f386bf8e31d6ea1c4.jpg",
-    "static/media/vday_menu.jpg": "/static/media/vday_menu.7c3d543bb5c8130fd85a.jpg",
-    "static/media/logo.jpg": "/static/media/logo.65702cc7a4c9e2c2d410.jpg",
-    "static/media/christmas_menu.jpg": "/static/media/christmas_menu.7d5c9ce10d90e6101a41.jpg",
-    "static/media/game_menu.jpg": "/static/media/game_menu.db4abd2385167afece09.jpg",
-    "static/media/ny_menu.jpg": "/static/media/ny_menu.d74849138c5e531617c1.jpg",
-    "static/media/cookies.jpg": "/static/media/cookies.4e5d2a0b16f2f32db1fe.jpg",
-    "static/media/muffins.jpg": "/static/media/muffins.f59bde9f9efe71e0fc5c.jpg",
-    "static/media/donut.jpg": "/static/media/donut.b299b5b469d3c314dd1e.jpg",
-    "index.html": "/index.html",
-    "main.d5cce5d2.css.map": "/static/css/main.d5cce5d2.css.map",
-    "main.29df867e.js.map": "/static/js/main.29df867e.js.map"
+    "main.css": "/dalessios/static/css/main.018d6da9.css",
+    "main.js": "/dalessios/static/js/main.41580e84.js",
+    "static/media/headshot.jpg": "/dalessios/static/media/headshot.3c6bce8ff01f254d7c88.jpg",
+    "static/media/storefront.jpg": "/dalessios/static/media/storefront.9be284dab17c32eae60b.jpg",
+    "static/media/mail.png": "/dalessios/static/media/mail.a9e53b1155a177628abf.png",
+    "static/media/Backdrop_1.svg": "/dalessios/static/media/Backdrop_1.87073893e0382779ac4c.svg",
+    "static/media/phone.png": "/dalessios/static/media/phone.7bdb9227cb0196eedd51.png",
+    "static/media/fb_icon.png": "/dalessios/static/media/fb_icon.b1f08038eef010aa6def.png",
+    "static/media/donuts_oldFashion.jpg": "/dalessios/static/media/donuts_oldFashion.1af4bf7cf9e378c55c62.jpg",
+    "static/media/patty_menu.jpg": "/dalessios/static/media/patty_menu.b25f386bf8e31d6ea1c4.jpg",
+    "static/media/vday_menu.jpg": "/dalessios/static/media/vday_menu.7c3d543bb5c8130fd85a.jpg",
+    "static/media/logo.jpg": "/dalessios/static/media/logo.65702cc7a4c9e2c2d410.jpg",
+    "static/media/christmas_menu.jpg": "/dalessios/static/media/christmas_menu.7d5c9ce10d90e6101a41.jpg",
+    "static/media/game_menu.jpg": "/dalessios/static/media/game_menu.db4abd2385167afece09.jpg",
+    "static/media/ny_menu.jpg": "/dalessios/static/media/ny_menu.d74849138c5e531617c1.jpg",
+    "static/media/cookies.jpg": "/dalessios/static/media/cookies.4e5d2a0b16f2f32db1fe.jpg",
+    "static/media/muffins.jpg": "/dalessios/static/media/muffins.f59bde9f9efe71e0fc5c.jpg",
+    "static/media/donut.jpg": "/dalessios/static/media/donut.b299b5b469d3c314dd1e.jpg",
+    "index.html": "/dalessios/index.html",
+    "main.018d6da9.css.map": "/dalessios/static/css/main.018d6da9.css.map",
+    "main.41580e84.js.map": "/dalessios/static/js/main.41580e84.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5cce5d2.css",
-    "static/js/main.29df867e.js"
+    "static/css/main.018d6da9.css",
+    "static/js/main.41580e84.js"
   ]
 }
