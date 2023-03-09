@@ -1,21 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.98c8a91e.css",
-    "main.js": "/static/js/main.8392ba02.js",
-    "static/media/ginger_bread.jpg": "/static/media/ginger_bread.2346d6baf48d13e9d969.jpg",
-    "static/media/display.jpg": "/static/media/display.4d9cd4dc7ceda10ee32c.jpg",
-    "static/media/cheese_platter.jpg": "/static/media/cheese_platter.d118de33529af6a93d55.jpg",
-    "static/media/bagged_cookies.jpg": "/static/media/bagged_cookies.55b917aa30caf3b4e217.jpg",
-    "static/media/platter.jpg": "/static/media/platter.52b9e91707d039fbd625.jpg",
-    "static/media/woopy_pie.jpg": "/static/media/woopy_pie.28a019c36fcf29360ea4.jpg",
-    "static/media/mozza.jpg": "/static/media/mozza.78c8cbc58c2e566e19d6.jpg",
-    "static/media/pie.jpg": "/static/media/pie.57780052d82a923ce1f1.jpg",
-    "static/media/cupcake.jpg": "/static/media/cupcake.d338f123ccf5118df0f7.jpg",
-    "static/media/mail.png": "/static/media/mail.7f3aa26d07b5107e53d3.png",
-    "static/media/phone.png": "/static/media/phone.01756994555bc16be2a2.png",
-    "static/media/fb_icon.png": "/static/media/fb_icon.c994eda5fa8abb1e4b64.png",
+    "main.css": "/static/css/main.44b9917b.css",
+    "main.js": "/static/js/main.d6acb63e.js",
     "static/media/Backdrop_1.svg": "/static/media/Backdrop_1.87073893e0382779ac4c.svg",
-    "static/media/donuts_oldFashion.jpg": "/static/media/donuts_oldFashion.1af4bf7cf9e378c55c62.jpg",
     "static/media/patty_menu.jpg": "/static/media/patty_menu.b25f386bf8e31d6ea1c4.jpg",
     "static/media/vday_menu.jpg": "/static/media/vday_menu.7c3d543bb5c8130fd85a.jpg",
     "static/media/logo.jpg": "/static/media/logo.65702cc7a4c9e2c2d410.jpg",
@@ -23,17 +10,26 @@
     "static/media/game_menu.jpg": "/static/media/game_menu.db4abd2385167afece09.jpg",
     "static/media/ny_menu.jpg": "/static/media/ny_menu.d74849138c5e531617c1.jpg",
     "static/media/adelia.ttf": "/static/media/adelia.3433c79c131d0305c3a9.ttf",
-    "static/media/julia_pfp.jpg": "/static/media/julia_pfp.002fa820dbf6152f84e4.jpg",
     "static/media/backdrop_2.jpg": "/static/media/backdrop_2.b9b3c39cf1c6458e6e68.jpg",
     "static/media/zai_PencilTypewriter.ttf": "/static/media/zai_PencilTypewriter.731d18f597bf5a496547.ttf",
-    "static/media/cookies.jpg": "/static/media/cookies.4e5d2a0b16f2f32db1fe.jpg",
+    "static/media/julia_pfp.jpg": "/static/media/julia_pfp.176e5dc449780a0b07f1.jpg",
+    "static/media/ginger_bread.jpg": "/static/media/ginger_bread.23daeb1edc2329384ce9.jpg",
+    "static/media/bagged_cookies.jpg": "/static/media/bagged_cookies.78c1b9e1dd87e56c8285.jpg",
+    "static/media/platter.jpg": "/static/media/platter.99881c658ba4cb9d31e1.jpg",
+    "static/media/display.jpg": "/static/media/display.84a79bed9037d1b0e953.jpg",
+    "static/media/donuts_oldFashion.jpg": "/static/media/donuts_oldFashion.6a86063342e67d79bca0.jpg",
+    "static/media/mozza.jpg": "/static/media/mozza.85d724b1b88c15a89b0a.jpg",
+    "static/media/woopy_pie.jpg": "/static/media/woopy_pie.2f30838d474184235b66.jpg",
+    "static/media/pie.jpg": "/static/media/pie.0ece2bcbd9760663d8f5.jpg",
+    "static/media/cheese_platter.jpg": "/static/media/cheese_platter.93eff8040d7a6adcab18.jpg",
+    "static/media/cupcake.jpg": "/static/media/cupcake.364c8990dc2796cc0fe6.jpg",
     "static/media/muffins.jpg": "/static/media/muffins.f59bde9f9efe71e0fc5c.jpg",
     "index.html": "/index.html",
-    "main.98c8a91e.css.map": "/static/css/main.98c8a91e.css.map",
-    "main.8392ba02.js.map": "/static/js/main.8392ba02.js.map"
+    "main.44b9917b.css.map": "/static/css/main.44b9917b.css.map",
+    "main.d6acb63e.js.map": "/static/js/main.d6acb63e.js.map"
   },
   "entrypoints": [
-    "static/css/main.98c8a91e.css",
-    "static/js/main.8392ba02.js"
+    "static/css/main.44b9917b.css",
+    "static/js/main.d6acb63e.js"
   ]
 }
