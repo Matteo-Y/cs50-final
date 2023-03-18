@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.637accd7.css",
-    "main.js": "/static/js/main.9711f45d.js",
+    "main.js": "/static/js/main.59d51330.js",
     "static/media/Backdrop_1.svg": "/static/media/Backdrop_1.87073893e0382779ac4c.svg",
     "static/media/patty_menu.jpg": "/static/media/patty_menu.b25f386bf8e31d6ea1c4.jpg",
     "static/media/vday_menu.jpg": "/static/media/vday_menu.7c3d543bb5c8130fd85a.jpg",
@@ -14,22 +14,22 @@
     "static/media/zai_PencilTypewriter.ttf": "/static/media/zai_PencilTypewriter.731d18f597bf5a496547.ttf",
     "static/media/julia_pfp.jpg": "/static/media/julia_pfp.176e5dc449780a0b07f1.jpg",
     "static/media/ginger_bread.jpg": "/static/media/ginger_bread.23daeb1edc2329384ce9.jpg",
+    "static/media/brownies.jpg": "/static/media/brownies.3e3d066e421c8106fde9.jpg",
     "static/media/bagged_cookies.jpg": "/static/media/bagged_cookies.78c1b9e1dd87e56c8285.jpg",
     "static/media/platter.jpg": "/static/media/platter.99881c658ba4cb9d31e1.jpg",
     "static/media/display.jpg": "/static/media/display.84a79bed9037d1b0e953.jpg",
     "static/media/donuts_oldFashion.jpg": "/static/media/donuts_oldFashion.6a86063342e67d79bca0.jpg",
     "static/media/mozza.jpg": "/static/media/mozza.85d724b1b88c15a89b0a.jpg",
+    "static/media/scones.jpg": "/static/media/scones.f35144570f32006150de.jpg",
     "static/media/woopy_pie.jpg": "/static/media/woopy_pie.2f30838d474184235b66.jpg",
     "static/media/pie.jpg": "/static/media/pie.0ece2bcbd9760663d8f5.jpg",
     "static/media/cheese_platter.jpg": "/static/media/cheese_platter.93eff8040d7a6adcab18.jpg",
-    "static/media/cupcake.jpg": "/static/media/cupcake.364c8990dc2796cc0fe6.jpg",
-    "static/media/muffins.jpg": "/static/media/muffins.f59bde9f9efe71e0fc5c.jpg",
     "index.html": "/index.html",
     "main.637accd7.css.map": "/static/css/main.637accd7.css.map",
-    "main.9711f45d.js.map": "/static/js/main.9711f45d.js.map"
+    "main.59d51330.js.map": "/static/js/main.59d51330.js.map"
   },
   "entrypoints": [
     "static/css/main.637accd7.css",
-    "static/js/main.9711f45d.js"
+    "static/js/main.59d51330.js"
   ]
 }
