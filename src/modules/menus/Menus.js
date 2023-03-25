@@ -1,6 +1,22 @@
 import MenuSlide from "./MenuSlide";
 
 export default function Menus() {
+    const menus = [
+        'spring_menu.jpg',
+        'vday_menu.jpg',
+        'patty_menu.jpg',
+        'christmas_menu.jpg',
+        'ny_menu.jpg'
+    ];
+
+    function getMenus() {
+        let result = [];
+        for(let i = 0; i < menus.length; i++) {
+            result.push(<MenuSlide img={require("./../../res/menus/" + menus[i])} key={i}/>);
+        }
+        return result;
+    }
+
     return (
         <div id="menus">
             <h1 className="title">MENUS</h1>
@@ -8,11 +24,7 @@ export default function Menus() {
                 <p className="subtitle">CHANGING WITH THE SEASONS</p>
             </div>
             <div id="menu-slide-container">
-                <MenuSlide img={require("./../../res/menus/patty_menu.jpg")}/>
-                <MenuSlide img={require("./../../res/menus/vday_menu.jpg")}/>
-                <MenuSlide img={require("./../../res/menus/christmas_menu.jpg")}/>
-                <MenuSlide img={require("./../../res/menus/ny_menu.jpg")}/>
-                <MenuSlide img={require("./../../res/menus/game_menu.jpg")}/>
+                {getMenus()}
             </div>
         </div>
     );
