@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bfbde356.css",
+    "main.js": "./static/js/main.31cc800e.js",
+    "static/media/Backdrop_1.svg": "./static/media/Backdrop_1.87073893e0382779ac4c.svg",
+    "static/media/spring_menu.jpg": "./static/media/spring_menu.454049a95879ecdf44cd.jpg",
+    "static/media/christmas_menu.jpg": "./static/media/christmas_menu.2afeffa136a34132215a.jpg",
+    "static/media/ny_menu.jpg": "./static/media/ny_menu.5b2f613c9d308cc2dc63.jpg",
+    "static/media/patty_menu.jpg": "./static/media/patty_menu.a502e4a183ddb783247e.jpg",
+    "static/media/vday_menu.jpg": "./static/media/vday_menu.23e709656d435e2208f6.jpg",
+    "static/media/logo.jpg": "./static/media/logo.65702cc7a4c9e2c2d410.jpg",
+    "static/media/game_menu.jpg": "./static/media/game_menu.db4abd2385167afece09.jpg",
+    "static/media/adelia.ttf": "./static/media/adelia.3433c79c131d0305c3a9.ttf",
+    "static/media/backdrop_2.jpg": "./static/media/backdrop_2.b9b3c39cf1c6458e6e68.jpg",
+    "static/media/zai_PencilTypewriter.ttf": "./static/media/zai_PencilTypewriter.731d18f597bf5a496547.ttf",
+    "static/media/julia_pfp.jpg": "./static/media/julia_pfp.176e5dc449780a0b07f1.jpg",
+    "static/media/ginger_bread.jpg": "./static/media/ginger_bread.23daeb1edc2329384ce9.jpg",
+    "static/media/brownies.jpg": "./static/media/brownies.3e3d066e421c8106fde9.jpg",
+    "static/media/bagged_cookies.jpg": "./static/media/bagged_cookies.78c1b9e1dd87e56c8285.jpg",
+    "static/media/platter.jpg": "./static/media/platter.99881c658ba4cb9d31e1.jpg",
+    "static/media/display.jpg": "./static/media/display.84a79bed9037d1b0e953.jpg",
+    "static/media/donuts_oldFashion.jpg": "./static/media/donuts_oldFashion.6a86063342e67d79bca0.jpg",
+    "static/media/mozza.jpg": "./static/media/mozza.85d724b1b88c15a89b0a.jpg",
+    "static/media/scones.jpg": "./static/media/scones.f35144570f32006150de.jpg",
+    "static/media/woopy_pie.jpg": "./static/media/woopy_pie.2f30838d474184235b66.jpg",
+    "static/media/pie.jpg": "./static/media/pie.0ece2bcbd9760663d8f5.jpg",
+    "static/media/cheese_platter.jpg": "./static/media/cheese_platter.93eff8040d7a6adcab18.jpg",
+    "index.html": "./index.html",
+    "main.bfbde356.css.map": "./static/css/main.bfbde356.css.map",
+    "main.31cc800e.js.map": "./static/js/main.31cc800e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfbde356.css",
+    "static/js/main.31cc800e.js"
+  ]
+}
